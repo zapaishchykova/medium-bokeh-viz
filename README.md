@@ -1,1 +1,1 @@
-# medium-bokeh-viz
+# The meaningful visualization of clusters
