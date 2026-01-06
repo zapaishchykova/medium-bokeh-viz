@@ -4,4 +4,4 @@ seaborn==0.12.0
 numpy==1.23.3 
 umap-learn== 0.5.3 
 hdbscan==0.8.28
-bokeh==2.4.3 
+bokeh==3.8.2 
